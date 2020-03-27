@@ -1,3 +1,3 @@
 <?php
-	echo "test\n";
+	echo "testng\n";
 ?>
